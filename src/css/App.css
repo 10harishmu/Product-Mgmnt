@@ -1,0 +1,19 @@
+
+.App{
+    background-color: rgb(3, 3, 26);
+    /* padding-left: 20px;
+    padding-top: 10px; */
+}
+
+.home{
+    display: flex;
+    color: white;
+}
+*{
+    cursor: pointer;
+}
+
+
+
+
+

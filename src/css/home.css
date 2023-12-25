@@ -1,0 +1,39 @@
+.home{
+    display: flex;
+    flex-direction:column;
+    
+}
+.poster {
+    padding-left:193px;
+    margin-top: -510px;
+    border-radius: 10px;
+}
+
+.second{
+    margin-top: 5px;
+    display: flex;
+    padding-left: 280px;
+    padding-right: 100px;
+    justify-content: space-between;  
+}
+.sec2{
+    margin-left: 220px;
+    height: 70px;
+    border-radius: 10px;
+    /* background-color: blue; */
+}
+/* #asdf{
+    transition: 0.5s;
+}
+
+#asdf:hover{
+    transform:scale(1.1)
+
+} */
+.poster img{
+    border-radius: 10px;
+}
+
+.second img{
+    border-radius: 10px;
+}

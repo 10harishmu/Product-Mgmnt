@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "Product": "Onion",
+      "Quality": "Good",
+      "Quantity": 10,
+      "Price": "40",
+      "id": 1
+    },
+    {
+      "Product": "Apple",
+      "Quality": "Good",
+      "Quantity": 2,
+      "Price": "120",
+      "id": 2
+    },
+    {
+      "Product": "Rice",
+      "Quality": "First",
+      "Quantity": 8,
+      "Price": "55",
+      "id": 3
+    },
+    {
+      "Product": "Daal",
+      "Quality": "First",
+      "Quantity": "5",
+      "Price": "80",
+      "id": 4
+    }
+  ],
+  "images": [
+    {
+      "img": "one.jpg"
+    },
+    {
+      "img": "two.jpg"
+    },
+    {
+      "img": "three.jpg"
+    },
+    {
+      "img": "fourth.jpg"
+    }
+  ]
+}

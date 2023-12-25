@@ -1,0 +1,22 @@
+.categories{
+    width: 150px;
+    padding-left: 10px;
+}
+   
+.categories h3{
+    color:aliceblue;
+    font-size: 23px;
+    padding-right: 10px;
+}
+.categories li{
+    list-style: none;
+    margin: 18px 0px;
+    padding: 20px 10px;
+   
+}
+.categories a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+
